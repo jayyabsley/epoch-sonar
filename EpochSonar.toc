@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: Epoch Sonar
+## Notes: A simple audio alert addon that plays a sound when gathering nodes appear on your minimap
+## Version: 2.0.0
+## Author: EpochWoW Community
+## SavedVariables: EpochSonarDB
+## DefaultState: enabled
+
+EpochSonar.lua
